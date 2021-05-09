@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Vlog #1"
+date:   2021-04-15 12:00:00 +0200
+permalink: /blog/Vlog1
+---
+Unsere ersten 4 Wochen in der "Fuensanta" bei Uli und Jasmin
