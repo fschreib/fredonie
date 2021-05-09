@@ -6,4 +6,4 @@ permalink: /blog/Vlog1
 ---
 Unsere ersten Wochen in Spanien zu Gast bei Uli und Jasmin.
 
-<iframe src="https://player.vimeo.com/video/547173224" width="640" height="564" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/547173224" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
