@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: route
 title: Die Route
 permalink: /route
 ---
