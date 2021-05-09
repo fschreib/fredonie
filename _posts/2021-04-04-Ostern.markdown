@@ -6,8 +6,8 @@ permalink: /blog/Ostern
 ---
 Gemeinsame Eierbemalung und -suche auf dem Campo.
 
-![]({ '/' | relative_url }}/assets/images/Ostern/1.jpg)
-![]({ '/' | relative_url }}/assets/images/Ostern/2.jpg)
+![](/assets/images/Ostern/1.jpg)
+![](/assets/images/Ostern/2.jpg)
 ![](/assets/images/Ostern/3.jpg)
 ![](/assets/images/Ostern/4.jpg)
 ![](/assets/images/Ostern/5.jpg)
