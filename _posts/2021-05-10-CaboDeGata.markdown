@@ -6,6 +6,7 @@ permalink: /blog/CaboDeGata
 ---
 Nach dem kurzen Abstecher in die Wüste von Tabernas ging es auf in Richtung Cabo de Gata. Wir wurden überrascht von den wohl schönsten Stränden Spaniens. Die ganze Küste vulkanischen Ursprungs entlang findet man immer wieder traumhafte Buchten mit glasklarem Wasser, mal mit Sand- und mal mit Felsstrand. Auch die kleinen Orte, vor allem San Jose und Agua Amarga haben uns sehr gut gefallen.
 <br>
+<br>
 UPDATE: Zwei neue Fotos (ganz am Ende)
 <br>
 <br>
