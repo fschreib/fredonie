@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Laguna Rosa und Übernachtung an der Cabo Cope"
-date:   2021-05-14 12:00:00 +0200
+date:   2021-05-12 12:00:00 +0200
 permalink: /blog/LagunaRosa
 ---
 Zum Besuch der Laguna Rosa in Torrevieja haben wir Andalusien für zwei Tage verlassen und unterwegs die Küsten Murcias erkundet. Da dieser Küstenabschnitt touristisch nicht wirklich erschlossen ist hatten wir dort die Möglichkeit unseren Bus direkt an den Klippen zu parken.
