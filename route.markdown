@@ -3,4 +3,4 @@ layout: route
 title: Die Route
 permalink: /route
 ---
-![](../assets/route/route.svg)
+![](../assets/route/route1.png)
