@@ -10,6 +10,10 @@ Nach dem kurzen Abstecher in die Wüste von Tabernas ging es auf in Richtung Cab
 UPDATE: Zwei neue Fotos (ganz am Ende)
 <br>
 <br>
+<center>
+<img src="../assets/images/CaboDeGata/map.png" height="250" width="375">
+</center>
+<br>
 <br>
 <strong>Playa del Monsul (San Jose):</strong>
 <br>

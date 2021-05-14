@@ -5,7 +5,13 @@ date:   2021-05-13 12:00:00 +0200
 permalink: /blog/ElTorcal
 ---
 Auf dem Weg zurück zu Uli und Jasmin um dort für ein paar Tage die Finca zu "sitten" haben wir im Naturschutzgebiet El Torcal im Norden Malagas halt gemacht. Die beeindruckenden Karstformationen im Park entstanden vor ca 100 Millionen Jahren als das Gebiet noch vom Meer Tethys bedeckt war von welchem heute nur noch das Mittelmeer zurück geblieben ist.
-
+<br>
+<br>
+<center>
+<img src="../assets/images/ElTorcal/map.png" height="250" width="375">
+</center>
+<br>
+<br>
 ![](../assets/images/ElTorcal/1.jpg)
 ![](../assets/images/ElTorcal/2.jpg)
 ![](../assets/images/ElTorcal/3.jpg)
