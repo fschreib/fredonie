@@ -8,7 +8,7 @@ Nach in mittlerweile schon vier Wochen bei Uli und Neina wurde es Zeit die Wande
 <br>
 <br>
 <center>
-<img src="../assets/images/EineNachtAufDemBerg/map.png" height="250" width="250">
+<img src="../assets/images/EineNachtAufDemBerg/map.png" height="250" width="375">
 </center>
 <br>
 <br>
