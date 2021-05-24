@@ -5,7 +5,7 @@ date:   2021-05-24 12:00:00 +0200
 permalink: /blog/ScansAndalusien
 ---
 Hurra die Scans der Filme die in den letzten Wochen auf unserer Reise durch Andalusien "verknipst" wurden sind da!
-Um für euch ein bisschen Ordnung rein zu bringen nach Orten Sortiert.
+Um für euch ein bisschen Ordnung rein zu bringen nach Orten sortiert.
 <br>
 <br>
 <strong>Tarifa:</strong>
