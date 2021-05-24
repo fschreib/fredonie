@@ -102,3 +102,4 @@ Um für euch ein bisschen Ordnung rein zu bringen nach Orten sortiert.
 ![](../assets/images/Scans2/62.jpg)
 ![](../assets/images/Scans2/63.jpg)
 ![](../assets/images/Scans2/64.jpg)
+![](../assets/images/Scans2/65.jpg)
