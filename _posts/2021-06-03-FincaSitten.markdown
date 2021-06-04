@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finca Sitten"
-date:   2021-04-25 11:00:00 +0200
+date:   2021-06-04 11:00:00 +0200
 permalink: /blog/FincaSitten
 ---
 Nach ca. 4 Wochen Rundreise durch Andalusien haben wir einen Zwischenstopp zum Finca "sitten" eingelegt bevor es weiter nach Portugal ging.
