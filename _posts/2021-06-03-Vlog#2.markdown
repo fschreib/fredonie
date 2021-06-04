@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Vlog #2"
+date:   2021-06-04 12:00:00 +0200
+permalink: /blog/Vlog2
+---
+<iframe src="https://player.vimeo.com/video/558956970" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
