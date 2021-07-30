@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UPDATE: Cabo de Gata"
+title:  "Norwegen #1"
 date:   2021-07-31 00:00:00 +0200
 permalink: /blog/Norwegen1
 ---
