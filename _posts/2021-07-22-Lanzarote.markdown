@@ -4,7 +4,7 @@ title:  "Lanzarote"
 date:   2021-07-23 12:00:00 +0200
 permalink: /blog/Lanzarote
 ---
-Während wir gerade auf der Fähre in Richtung Schweden sitzen schaffe ich es mal wieder diesen Blog zu updaten und euch unsere Fotos aus Lanzarote zu zeigen. Ziemlich spontan kam uns die Idee über Fredde's Geburtstag einen Kurztrip auf die Kanareninsel zu machen um die vielen Vulkane dort zu besichtigen. Die Straßen der Insel führen durch die vielen Lavafelder, welche fast die komplette Insel bedecken. Häuser, Mauern, Wege und so ziemlich alles was sich aus Stein bauen lässt wurde aus diesem Lavagestein errichtet. Selbst in Blumenbeeten kommt das Lavagestein zum Einsatz und die schwarze Farbe gibt der ganzen Insel einen ganz besonderen Anblick.
+Während wir gerade auf der Fähre in Richtung Schweden sitzen schaffen wir es mal wieder diesen Blog zu updaten und euch unsere Fotos aus Lanzarote zu zeigen. Ziemlich spontan kam uns die Idee über Fredde's Geburtstag einen Kurztrip auf die Kanareninsel zu machen um die vielen Vulkane dort zu besichtigen. Die Straßen der Insel führen durch die vielen Lavafelder, welche fast die komplette Insel bedecken. Häuser, Mauern, Wege und so ziemlich alles was sich aus Stein bauen lässt wurde aus diesem Lavagestein errichtet. Selbst in Blumenbeeten kommt das Lavagestein zum Einsatz und die schwarze Farbe gibt der ganzen Insel einen ganz besonderen Anblick.
 <br>
 <br>
 Digital:
